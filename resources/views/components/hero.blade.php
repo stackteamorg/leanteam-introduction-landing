@@ -20,13 +20,28 @@
                             <!-- first visible word ends --> 
                             
                             <!-- second word --> 
-                            <b class="is-hidden"><span class="color-blue">DevOps</span></b> 
+                            <b class="is-hidden"><span class="color-blue">Backend</span></b> 
                             <!-- second word ends --> 
 
-                            <!-- second word --> 
-                            <b class="is-hidden"><span class="color-blue">Project Manager</span></b> 
-                            <!-- second word ends --> 
+                            <!-- third word --> 
+                            <b class="is-hidden"><span class="color-blue">Frontend</span></b> 
+                            <!-- third word ends --> 
+
+                              <!-- fourth word --> 
+                              <b class="is-hidden"><span class="color-blue">DBMan</span></b> 
+                            <!-- fourth word ends --> 
+
+                             <!-- fifth word --> 
+                             <b class="is-hidden"><span class="color-blue">Server Manager</span></b> 
+                            <!-- fifth word ends --> 
+
+                            <!-- sixth word --> 
+                            <b class="is-hidden"><span class="color-blue">Product Owner</span></b> 
+                            <!-- sixth word ends --> 
                             
+                             <!-- seventhword --> 
+                             <b class="is-hidden"><span class="color-blue">Devops</span></b> 
+                            <!-- seventh word ends --> 
                             </span> </span></h3>
 						<!-- animated text ends --> 
                     </div>

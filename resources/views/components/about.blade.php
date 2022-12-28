@@ -8,7 +8,7 @@
                     
                     <!-- column 1 starts -->
                     <div class="col-12 col-md-6 small-device-space">
-                        <div class="dtr-pr-30"> <img src="assets/images/agency_img.png" alt="image"> </div>
+                        <div class="dtr-pr-30"> <img src="assets/images/team.jpg" alt="image"> </div>
                     </div>
                     <!-- column 1 ends --> 
                     

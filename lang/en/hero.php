@@ -13,6 +13,6 @@ return [
     |
     */
 
-    'main-text' => 'We help our clients create <span class="font-weight-500 color-dark">brands</span>, build digital <span class="font-weight-500 color-dark">products</span> and <span class="font-weight-500 color-dark">services</span>, innovate, find opportunities, and validate ideas',
-
+    'main-text' => 'We provide job opportunities for the top Software Developers in <span class="font-weight-500 color-dark">Developing</span>,  <span class="font-weight-500 color-dark">Building,</span> and <span class="font-weight-500 color-dark">Programming</span>'
+   
 ];

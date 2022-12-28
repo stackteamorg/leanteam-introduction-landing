@@ -61,10 +61,10 @@
                 <div class="dtr-header-left"> 
                     
                     <!-- logo --> 
-                    <a class="logo-default dtr-scroll-link" href="#home"><img src="assets/images/logo-dark.png" alt="logo" width="108"></a> 
+                    
                     
                     <!-- logo on scroll --> 
-                    <a class="logo-alt dtr-scroll-link" href="#home"><img src="assets/images/logo-dark.png" alt="logo" width="108"></a> 
+                 
                     <!-- logo on scroll ends --> 
                     
                 </div>
@@ -108,7 +108,7 @@
                         
                         <!-- column 1 starts -->
                         <div class="col-12 col-md-6">
-                            <p>. All rights reserved.</p>
+                            <p>Copyright © Leanteam 2022. All rights reserved.</p>
                         </div>
                         <!-- column 1 ends --> 
                         

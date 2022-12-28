@@ -18,7 +18,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member1.jpg" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="assets/images/team-member1.JPG" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
@@ -42,7 +42,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member2.jpg" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="assets/images/team-member2.JPG" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
@@ -66,7 +66,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member3.jpg" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="assets/images/team-member3.JPG" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
@@ -90,7 +90,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member4.jpg" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="{{ asset('assets/images/team-member4.JPG') }}" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
