@@ -53,7 +53,7 @@
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">Mahdi Homeyli</h4>
-                                <p>Project Lead</p>
+                                <p>Co-Founder</p>
                             </div>
                         </div>
                         <!-- member 1 ends --> 
