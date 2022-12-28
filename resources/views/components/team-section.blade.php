@@ -96,7 +96,6 @@
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
                                         <li><a href="#" class="dtr-twitter" target="_blank" title="twitter"></a></li>
-                                        <li><a href="#" class="dtr-facebook" target="_blank" title="facebook"></a></li>
                                         <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
