@@ -39,7 +39,7 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">03</p>
                             <img src="{{asset('assets/images/icons/desktop-app1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Design, Developing of Intra-organizational Software</h4>
+                            <h4 class="dtr-service-heading">Design, Programming, and Developing Desktop</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">04</p>
                             <img src="{{asset('assets/images/icons/counseling1.png')}}" alt="image" >
-                            <h4 class="dtr-service-heading"></h4>
+                            <h4 class="dtr-service-heading">Consulting, and technical mentoring  of startups, innovation companies, and organizations</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
                         </div>
                     </div>
@@ -63,7 +63,7 @@
                             
                            
                             <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image" >
-                            <h4 class="dtr-service-heading"></h4>
+                            <h4 class="dtr-service-heading">Blockchain and digital currency programming</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                             <p class="dtr-service-number color-blue">06</p>
                             
                             <img src="{{asset('assets/images/icons/icon-1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading"></h4>
+                            <h4 class="dtr-service-heading">Building Software Development Teams</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
                         </div>
                     </div>
