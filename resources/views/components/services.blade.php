@@ -39,7 +39,7 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">03</p>
                             <img src="{{asset('assets/images/icons/desktop-app1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Design, DEveloping of Intra-organizational Software</h4>
+                            <h4 class="dtr-service-heading">Design, Developing of Intra-organizational Software</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
                         </div>
                     </div>

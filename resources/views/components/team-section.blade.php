@@ -52,8 +52,8 @@
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
                                 </div>
-                                <h4 class="dtr-mb-0">Mohsen Taheri</h4>
-                                <p>Business Manager</p>
+                                <h4 class="dtr-mb-0">Mahdi Homeyli</h4>
+                                <p>Project Lead</p>
                             </div>
                         </div>
                         <!-- member 1 ends --> 
@@ -76,8 +76,9 @@
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
                                 </div>
-                                <h4 class="dtr-mb-0">Mahdi Homeyli</h4>
-                                <p>Project Lead</p>
+                                <h4 class="dtr-mb-0">Mohsen Taheri</h4>
+                                <p>Business Manager</p>
+                                
                             </div>
                         </div>
                         <!-- member 1 ends --> 
