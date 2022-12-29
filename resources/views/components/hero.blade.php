@@ -53,6 +53,22 @@
                     <div class="col-12 col-md-2"> 
                         
                         <!--=== img slider - 3col starts ===-->
+                        <!-- <div class="dtr-slick-slider dtr-img-slider-1col dtr-rounded-img">  -->
+                            <!-- img 1 -->
+                            <!-- <div> <img src="assets/images/front-END.png" alt="image"> </div> -->
+                            <!-- img 2 -->
+                            <!-- <div> <img src="assets/images/back-END.png" alt="image"> </div> -->
+                            <!-- img 3 -->
+                            <!-- <div> <img src="assets/images/project.png" alt="image"> </div> -->
+                        <!-- </div> -->
+                        <!--=== img slider - 3col ends ===--> 
+                        
+                    </div>
+                    <!-- column 2 ends --> 
+                     <!-- column 3 starts -->
+                     <div class="col-12 col-md-4 small-device-space"> 
+                        
+                        <!--=== img slider - 3col starts ===-->
                         <div class="dtr-slick-slider dtr-img-slider-1col dtr-rounded-img"> 
                             <!-- img 1 -->
                             <div> <img src="assets/images/front-END.png" alt="image"> </div>
@@ -60,22 +76,26 @@
                             <div> <img src="assets/images/back-END.png" alt="image"> </div>
                             <!-- img 3 -->
                             <div> <img src="assets/images/project.png" alt="image"> </div>
-                        </div>
+                            <!-- img 4 -->
+                            <!-- <div> <img src="assets/images/photography_img9.jpg" alt="image"> </div> -->
+                            <!-- img 5 -->
+                            <!-- <div> <img src="assets/images/photography_img8.jpg" alt="image"> </div> -->
+                         </div>
                         <!--=== img slider - 3col ends ===--> 
                         
                     </div>
-                    <!-- column 2 ends --> 
+                    <!-- column 3 ends --> 
                     
                     <!-- column 3 starts -->
                     <div class="col-12 col-md-4 small-device-space"> 
                         
                         <!-- video box starts -->
-                        <div class="dtr-video-wrapper dtr-rounded-img video-button-light"> 
+                        <!-- <div class="dtr-video-wrapper dtr-rounded-img video-button-light">  -->
                             <!-- image --> 
-                            <img src="assets/images/blogpost-img2.jpg" alt="image"> 
+                            <!-- <img src="assets/images/blogpost-img2.jpg" alt="image">  -->
                             <!-- button -->
-                            <div class="dtr-video-wrapper-inner"> <a class="dtr-video-popup dtr-video-button" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=kuceVNBTJio"><span class="dtr-video-button-wrap-inner"></span> <span class="dtr-border-animation dtr-border-1"></span> <span class="dtr-border-animation dtr-border-2"></span> </a> </div>
-                        </div>
+                            <!-- <div class="dtr-video-wrapper-inner"> <a class="dtr-video-popup dtr-video-button" data-autoplay="true" data-vbtype="video" href="https://www.youtube.com/watch?v=kuceVNBTJio"><span class="dtr-video-button-wrap-inner"></span> <span class="dtr-border-animation dtr-border-1"></span> <span class="dtr-border-animation dtr-border-2"></span> </a> </div>
+                        </div> -->
                         <!-- video box ends --> 
                         
                     </div>
@@ -97,7 +117,7 @@
                             <li class="dtr-social-title font-weight-500 color-dark">Follow Us on</li>
                             <li><a href="#" class="dtr-social-button dtr-twitter" target="_blank" title="linkedin"><span>Follow on twitter</span></a></li>
                             <li><a href="#" class="dtr-social-button dtr-facebook" target="_blank" title="facebook"><span>Like On Facebook</span></a></li>
-                            <li><a href="#" class="dtr-social-button dtr-linkedin" target="_blank" title="linkedin"><span>View Profile</span></a></li>
+                            <li><a href="https://www.linkedin.com/in/lean-team-6b8708259/" class="dtr-social-button dtr-linkedin" target="_blank" title="linkedin"><span>View Profile</span></a></li>
                         </ul>
                     </br>
                         <!-- social ends --> 
