@@ -13,4 +13,5 @@ return [
     |
     */
     'main-text' => 'We help our clients create',
+    'main-text'=> '',
 ];

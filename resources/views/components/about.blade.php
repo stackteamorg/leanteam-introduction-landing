@@ -18,13 +18,13 @@
                         <!-- heading starts -->
                         <div class="dtr-styled-heading">
                             <h2>About Us</h2>
-                            <p>Subheading or information goes here</p>
+                            <p></p>
                         </div>
                         <!-- heading ends --> 
                         
                         <!-- text -->
                         <p class="font-weight-500 color-dark">{{ __('about.main-text')}}</p>
-                        <p class="dtr-mt-20">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehende.</p>
+                        <p class="dtr-mt-20">{{__('about.main-text')}}</p>
                         <ul class="dtr-list-inline dtr-list-left-spaced dtr-mt-20">
                             <li><i class="icon-telephone-fill dtr-mr-10 color-blue"></i><a href="#chat" class="color-dark">leanteam.software@gmail.com</a></li>
                             <li><i class="icon-envelope-fill dtr-mr-10 color-blue"></i><span class="color-dark">+989120186223</span></li>
