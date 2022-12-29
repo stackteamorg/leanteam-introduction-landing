@@ -16,13 +16,12 @@
                         
                         <!-- heading starts -->
                         <div class="dtr-styled-heading">
-                            <h2>About Us</h2>
-                            <p></p>
+                            <h2>About Leanteam</h2>
                         </div>
                         <!-- heading ends --> 
-                        
+
                         <!-- text -->
-                        <p class="font-weight-500 color-dark">{{ __('about.main-text')}}</p>
+                        <p class="font-weight-500 color-dark"></p>
                         <p class="dtr-mt-20">{{__('about.main-text')}}</p>
                         <ul class="dtr-list-inline dtr-list-left-spaced dtr-mt-20">
                             <li><i class="icon-telephone-fill dtr-mr-10 color-blue"></i><a href="#chat" class="color-dark">leanteam.software@gmail.com</a></li>

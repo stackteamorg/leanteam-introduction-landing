@@ -12,6 +12,9 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'main-text' => 'We help our clients to be ',
-    'main-text'=> '',
+    'main-text'=> '
+    Leanteam with the aim of facilitating the connection of businesses with the programming ecosystem, help to find talented programmers. 
+    Helping businesses present their products or services properly on the web and application is another goal of our team. 
+    ',
+    
 ];
