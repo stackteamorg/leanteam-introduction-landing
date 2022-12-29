@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no">
 <title>Leanteam HTML Template</title>
-<meta name="author" content="tansh">
+<meta name="author" content="">
 <meta name="description" content="HTML Teamplate">
 <meta name="keywords" content="agency, personal, photography, one page">
 
@@ -40,7 +40,7 @@
         <div class="container"> 
             
             <!-- small devices logo --> 
-            <a href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a> 
+            <!-- <a href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a>  -->
             <!-- small devices logo ends --> 
             
             <!-- menu button -->
@@ -78,6 +78,7 @@
                             <li> <a class="nav-link" href="#about">About</a> </li>
                             <li> <a class="nav-link" href="#services">Services</a> </li>
                             <li> <a class="nav-link" href="#portfolio">Works</a> </li>
+                            <!-- <li> <a class="nav-link" href="#blog">blog</a> </li> -->
                             <li> <a class="nav-link" href="#contact">Contact</a> </li>
                         </ul>
                     </div>

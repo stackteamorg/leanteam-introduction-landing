@@ -3,5 +3,5 @@
     <x-about></x-about>
     <x-services></x-services>
     <x-portfolio></x-portfolio>
-    <x-team-section></x-team-section>
+    <x-contact></x-contact>
 </x-app-layout>
