@@ -55,11 +55,11 @@
                         <!--=== img slider - 3col starts ===-->
                         <div class="dtr-slick-slider dtr-img-slider-1col dtr-rounded-img"> 
                             <!-- img 1 -->
-                            <div> <img src="assets/images/photography_img7.jpg" alt="image"> </div>
+                            <div> <img src="assets/images/front-END.png" alt="image"> </div>
                             <!-- img 2 -->
-                            <div> <img src="assets/images/photography_img9.jpg" alt="image"> </div>
+                            <div> <img src="assets/images/back-END.png" alt="image"> </div>
                             <!-- img 3 -->
-                            <div> <img src="assets/images/photography_img8.jpg" alt="image"> </div>
+                            <div> <img src="assets/images/project.png" alt="image"> </div>
                         </div>
                         <!--=== img slider - 3col ends ===--> 
                         
@@ -105,7 +105,7 @@
                     <!-- column 1 ends --> 
                     
                     <!-- column 2 starts -->
-                    <div class="col-12 col-md-2 dtr-rounded-img small-device-space"> <img src="assets/images/experience-img.jpg" alt="image"> </div>
+                    <!-- <div class="col-12 col-md-2 dtr-rounded-img small-device-space"> <img src="assets/images/experience-img.jpg" alt="image"> </div> -->
                     <!-- column 2 ends --> 
                     
                 </div>
