@@ -18,7 +18,7 @@
                             <p class="dtr-service-number color-blue">01</p>
                             <img src="{{asset('assets/images/icons/mobile-development1.png')}}" alt="image">
                             <h4 class="dtr-service-heading">Design, Programming, and Developing Mobile Application</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
+                            <p>{{__('services.main-text1')}}</p>
                         </div>
                     </div>
                     <!-- box 1 ends --> 
@@ -29,7 +29,7 @@
                             <p class="dtr-service-number color-blue">02</p>
                             <img src="{{asset('assets/images/icons/web-development1.png')}}" alt="image">
                             <h4 class="dtr-service-heading">Design, Programming, and Developing Website</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
+                            <p>{{__('services.main-text2')}}</p>
                         </div>
                     </div>
                     <!-- box 2 ends --> 
@@ -40,7 +40,7 @@
                             <p class="dtr-service-number color-blue">03</p>
                             <img src="{{asset('assets/images/icons/desktop-app1.png')}}" alt="image">
                             <h4 class="dtr-service-heading">Programming and Producing Desktop Software</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
+                            <p>{{__('services.main-text3')}}</p>
                         </div>
                     </div>
                     <!-- box 3 ends --> 
@@ -51,7 +51,7 @@
                             <p class="dtr-service-number color-blue">04</p>
                             <img src="{{asset('assets/images/icons/counseling1.png')}}" alt="image" >
                             <h4 class="dtr-service-heading">Consulting, and technical mentoring  of startups, innovation companies, and organizations</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
+                            <p>{{__('services.main-text4')}}</p>
                         </div>
                     </div>
                     <!-- box 4 ends --> 
@@ -64,7 +64,7 @@
                            
                             <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image" >
                             <h4 class="dtr-service-heading">Blockchain and digital currency programming</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
+                            <p>{{__('services.main-text5')}}</p>
                         </div>
                     </div>
                     <!-- box 5 ends --> 
@@ -76,7 +76,7 @@
                             
                             <img src="{{asset('assets/images/icons/icon-1.png')}}" alt="image">
                             <h4 class="dtr-service-heading">Building Software Development Teams</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidid labore dolore magna.</p>
+                            <p>{{__('services.main-text6')}}</p>
                         </div>
                     </div>
                     <!-- box 6 ends --> 

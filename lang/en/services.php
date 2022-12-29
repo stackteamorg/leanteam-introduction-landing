@@ -12,6 +12,10 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'main-text' => 'We help our clients to be ',
-    'main-text'=> '',
+    'main-text1' => 'text1',
+    'main-text2'=> 'text2',
+    'main-text3'=> 'text3',
+    'main-text4'=> 'text4',
+    'main-text5'=> 'text5',
+    'main-text6'=> 'text6',
 ];

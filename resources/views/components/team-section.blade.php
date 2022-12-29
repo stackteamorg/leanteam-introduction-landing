@@ -6,7 +6,7 @@
                 <!-- heading starts -->
                 <div class="dtr-styled-heading heading-left">
                     <h2>Our Team</h2>
-                    <p>Subheading or information goes here</p>
+                    <p>Leanteam Members</p>
                 </div>
                 <!-- heading ends --> 
                 

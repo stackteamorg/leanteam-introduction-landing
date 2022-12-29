@@ -6,7 +6,7 @@
                 <!-- heading starts -->
                 <div class="dtr-styled-heading heading-center">
                     <h2>Some Inspiration</h2>
-                    <p>Subheading or information goes here</p>
+                    <p></p>
                 </div>
                 <!-- heading ends --> 
                 
