@@ -75,7 +75,7 @@
                     <div class="main-navigation dtr-menu-dark">
                         <ul class="sf-menu dtr-scrollspy dtr-nav dark-nav-on-load dark-nav-on-scroll">
                             <li> <a class="nav-link" href="#home">Home</a> </li>
-                            <li> <a class="nav-link" href="#about">About</a> </li>
+                            <li> <a class="nav-link" href="#about">About Us</a> </li>
                             <li> <a class="nav-link" href="#services">Services</a> </li>
                             <li> <a class="nav-link" href="#portfolio">Works</a> </li>
                             <!-- <li> <a class="nav-link" href="#blog">blog</a> </li> -->

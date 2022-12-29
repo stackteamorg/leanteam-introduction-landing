@@ -56,7 +56,7 @@
                     <div class="col-12 col-md-6">
                         <div class="dtr-pl-30">
                             <p class="d-flex align-items-center"><i class="icon-geo-alt dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">Our Location</span></p>
-                            <p>No11, Khaje Nasir Ave, the beginning of South Felestin St,Enghelab St,Tehran, Iran</p>
+                            <p>No11, Khaje Nasir Ave, South Felestin St, Enghelab St, Tehran, Iran</p>
                             <div class="spacer-20"></div>
                             <p class="d-flex align-items-center"><i class="icon-clock-fill dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">Work Timings</span></p>
                             <p> Sat : Thu - 10:00 am to 04:00 pm<br>Friday : Holiday</p>
