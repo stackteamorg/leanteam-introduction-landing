@@ -12,10 +12,10 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'main-text1' => '',
-    'main-text2'=> '',
-    'main-text3'=> '',
-    'main-text4'=> '',
-    'main-text5'=> '',
-    'main-text6'=> '',
+    'main-text1' => 'Design, Programming, and Developing Mobile Application',
+    'main-text2'=> 'Design, Programming, and Developing Website',
+    'main-text3'=> 'Programming and Producing Desktop Software',
+    'main-text4'=> "Counseling and analysis of companies' and organizations' requirements",
+    'main-text5'=> 'Blockchain and digital currency programming',
+    'main-text6'=> 'Building Software Development Teams',
 ];

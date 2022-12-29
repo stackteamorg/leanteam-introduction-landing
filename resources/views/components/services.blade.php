@@ -17,8 +17,8 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">1</p>
                             <img src="{{asset('assets/images/icons/mobile-development1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Design, Programming, and Developing Mobile Application</h4>
-                            <p>{{__('services.main-text1')}}</p>
+                            <h4 class="dtr-service-heading">{{__('services.main-text1')}}</h4>
+                            <p></p>
                         </div>
                     </div>
                     <!-- box 1 ends --> 
@@ -28,8 +28,8 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">2</p>
                             <img src="{{asset('assets/images/icons/web-development1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Design, Programming, and Developing Website</h4>
-                            <p>{{__('services.main-text2')}}</p>
+                            <h4 class="dtr-service-heading">{{__('services.main-text2')}}</h4>
+                            <p></p>
                         </div>
                     </div>
                     <!-- box 2 ends --> 
@@ -39,8 +39,8 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">3</p>
                             <img src="{{asset('assets/images/icons/desktop-app1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Programming and Producing Desktop Software</h4>
-                            <p>{{__('services.main-text3')}}</p>
+                            <h4 class="dtr-service-heading">{{__('services.main-text3')}}</h4>
+                            <p></p>
                         </div>
                     </div>
                     <!-- box 3 ends --> 
@@ -50,8 +50,8 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">4</p>
                             <img src="{{asset('assets/images/icons/counseling1.png')}}" alt="image" >
-                            <h4 class="dtr-service-heading">Consulting, and technical mentoring  of startups, innovation companies, and organizations</h4>
-                            <p>{{__('services.main-text4')}}</p>
+                            <h4 class="dtr-service-heading">{{__('services.main-text4')}}</h4>
+                            <p></p>
                         </div>
                     </div>
                     <!-- box 4 ends --> 
@@ -61,8 +61,8 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">5</p>
                             <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image" >
-                            <h4 class="dtr-service-heading">Blockchain and digital currency programming</h4></br></br></br>
-                            <p>{{__('services.main-text5')}}</p>
+                            <h4 class="dtr-service-heading">{{__('services.main-text5')}}</h4></br></br>
+                            <p></p>
                         </div>
                     </div>
                     <!-- box 5 ends --> 
@@ -72,8 +72,8 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">6</p>
                             <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Building Software Development Teams</h4></br></br></br>
-                            <p>{{__('services.main-text6')}}</p>
+                            <h4 class="dtr-service-heading">{{__('services.main-text6')}}</h4></br></br>
+                            <p></p>
                         </div>
                     </div>
                     <!-- box 6 ends --> 
