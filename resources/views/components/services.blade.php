@@ -61,7 +61,7 @@
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">5</p>
                             <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image" >
-                            <h4 class="dtr-service-heading">Blockchain and digital currency programming</h4>
+                            <h4 class="dtr-service-heading">Blockchain and digital currency programming</h4></br></br></br>
                             <p>{{__('services.main-text5')}}</p>
                         </div>
                     </div>
@@ -71,9 +71,8 @@
                     <div class="col-12 col-sm-6 col-lg-4">
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">6</p>
-                            
-                            <img src="{{asset('assets/images/icons/icon-1.png')}}" alt="image">
-                            <h4 class="dtr-service-heading">Building Software Development Teams</h4>
+                            <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image">
+                            <h4 class="dtr-service-heading">Building Software Development Teams</h4></br></br></br>
                             <p>{{__('services.main-text6')}}</p>
                         </div>
                     </div>

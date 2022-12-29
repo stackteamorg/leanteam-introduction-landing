@@ -29,7 +29,7 @@
                             <li><i class="icon-envelope-fill dtr-mr-10 color-blue"></i><span class="color-dark">+989120186223</span></li>
                         </ul>
                         <!-- link starts --> 
-                        <a href="#" class="dtr-btn btn-blue dtr-mt-30">Get Started <i class="icon-chevron-compact-right"></i></a> </div>
+                        <!-- <a href="#" class="dtr-btn btn-blue dtr-mt-30">Get Started <i class="icon-chevron-compact-right"></i></a> </div> -->
                     <!-- column 2 ends --> 
                     
                 </div>
