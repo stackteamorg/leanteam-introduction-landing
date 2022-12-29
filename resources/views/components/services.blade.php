@@ -71,7 +71,7 @@
                     <div class="col-12 col-sm-6 col-lg-4">
                         <div class="dtr-service-box bg-white">
                             <p class="dtr-service-number color-blue">6</p>
-                            <img src="{{asset('assets/images/icons/blockchain-development1.png')}}" alt="image">
+                            <img src="{{asset('assets/images/icons/counseling1.png')}}" alt="image">
                             <h4 class="dtr-service-heading">{{__('services.main-text6')}}</h4></br></br>
                             <p></p>
                         </div>

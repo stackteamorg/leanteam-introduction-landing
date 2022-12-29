@@ -24,8 +24,8 @@
                         <p class="font-weight-500 color-dark"></p>
                         <p class="dtr-mt-20">{{__('about.main-text')}}</p>
                         <ul class="dtr-list-inline dtr-list-left-spaced dtr-mt-20">
-                            <li><i class="icon-telephone-fill dtr-mr-10 color-blue"></i><a href="#chat" class="color-dark">leanteam.software@gmail.com</a></li>
-                            <li><i class="icon-envelope-fill dtr-mr-10 color-blue"></i><span class="color-dark">+989120186223</span></li>
+                            <li><i class="icon-telephone-fill dtr-mr-10 color-blue"></i><a href="#chat" class="color-dark">+989120186223</a></li>
+                            <li><i class="icon-envelope-fill dtr-mr-10 color-blue"></i><span class="color-dark">leanteam.software@gmail.com</span></li>
                         </ul>
                         <!-- link starts --> 
                         <!-- <a href="#" class="dtr-btn btn-blue dtr-mt-30">Get Started <i class="icon-chevron-compact-right"></i></a> </div> -->
