@@ -6,8 +6,8 @@
                 <!-- heading starts -->
                 <div class="dtr-styled-heading">
                     
-                    <h2>Say Hello</h2>
-                    <p>Subheading or information goes here</p>
+                    <h2>Contact Us</h2>
+                    <p>Say Hello!</p>
                     
                 </div>
                 
@@ -56,17 +56,17 @@
                     <div class="col-12 col-md-6">
                         <div class="dtr-pl-30">
                             <p class="d-flex align-items-center"><i class="icon-geo-alt dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">Our Location</span></p>
-                            <p>PO Box 16122, Collins, Victoria 3000, Australia</p>
+                            <p>No11, Khaje Nasir Ave, the beginning of South Felestin St,Enghelab St,Tehran, Iran</p>
                             <div class="spacer-20"></div>
                             <p class="d-flex align-items-center"><i class="icon-clock-fill dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">Work Timings</span></p>
-                            <p>Mon : Sat - 10:00 am to 05:00 pm<br>Sunday : Holiday</p>
+                            <p> Sat : Thu - 10:00 am to 04:00 pm<br>Friday : Holiday</p>
                             
                             
                             <!-- social starts -->
                             <ul class="dtr-social dtr-social-list dtr-styled-social text-left dtr-mt-30">
-                                <li><a href="#" class="dtr-social-button dtr-dribbble" target="_blank" title="dribbble"><span>Follow us</span></a></li>
+                                <!-- <li><a href="#" class="dtr-social-button dtr-dribbble" target="_blank" title="dribbble"><span>Follow us</span></a></li> -->
                                 <li><a href="#" class="dtr-social-button dtr-skype" target="_blank" title="skype"><span>Talk to us</span></a></li>
-                                <li><a href="#" class="dtr-social-button dtr-google" target="_blank" title="google"><span>Share on Google</span></a></li>
+                                <li><a href="#" class="dtr-social-button dtr-linkedin" target="_blank" title="linkedin"><span>linkedin</span></a></li>
                             </ul>
                             <!-- social ends --> 
                             
