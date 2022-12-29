@@ -26,7 +26,7 @@
                     <!-- portfolio item 1 starts -->
                     <div class="dtr-portfolio-item isotope-item filter-creative all">
                         <div class="dtr-portfolio-content dual-icons"> <img src="assets/images/front-END.png" alt="image">
-                            <div class="dtr-portfolio-overlay"> <a class="media-link" href="#"></a> <a class="media-zoom popup-gallery" href="assets/images/photography_img7.jpg"></a> </div>
+                            <div class="dtr-portfolio-overlay"> <a class="media-link" href="#"></a> <a class="media-zoom popup-gallery" href="assets/images/front-END.png"></a> </div>
                         </div>
                     </div>
                     <!-- portfolio item 1 ends --> 
@@ -39,7 +39,7 @@
                     </div> -->
                     <div class="dtr-portfolio-item isotope-item filter-design filter-photography all">
                         <div class="dtr-portfolio-content dual-icons"> <img src="assets/images/back-END.png" alt="image">
-                            <div class="dtr-portfolio-overlay"> <a class="media-link" href="#"></a> <a class="media-zoom popup-gallery" href="assets/images/photography_img9.jpg"></a> </div>
+                            <div class="dtr-portfolio-overlay"> <a class="media-link" href="#"></a> <a class="media-zoom popup-gallery" href="assets/images/back-END.png"></a> </div>
                         </div>
                     </div>
                     <!-- portfolio item 2 ends--> 
@@ -47,7 +47,7 @@
                     <!-- portfolio item 3 starts -->
                     <div class="dtr-portfolio-item isotope-item filter-design filter-photography all">
                         <div class="dtr-portfolio-content dual-icons"> <img src="assets/images/project.png" alt="image">
-                            <div class="dtr-portfolio-overlay"> <a class="media-link" href="#"></a> <a class="media-zoom popup-gallery" href="assets/images/photography_img9.jpg"></a> </div>
+                            <div class="dtr-portfolio-overlay"> <a class="media-link" href="#"></a> <a class="media-zoom popup-gallery" href="assets/images/project.png"></a> </div>
                         </div>
                     </div>
                     <!-- portfolio item 3 ends --> 
