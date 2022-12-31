@@ -119,7 +119,7 @@
                             <li><a href="#" class="dtr-social-button dtr-facebook" target="_blank" title="facebook"><span>Like On Facebook</span></a></li>
                             <li><a href="https://www.linkedin.com/in/lean-team-6b8708259/" class="dtr-social-button dtr-linkedin" target="_blank" title="linkedin"><span>View Profile</span></a></li>
                         </ul>
-                    </br></br>
+                    </br></br></br>
                         <!-- social ends --> 
                         
                     </div>
