@@ -78,7 +78,6 @@
                             <li> <a class="nav-link" href="#about">About Us</a> </li>
                             <li> <a class="nav-link" href="#services">Services</a> </li>
                             <li> <a class="nav-link" href="#portfolio">Works</a> </li>
-                            <!-- <li> <a class="nav-link" href="#blog">blog</a> </li> -->
                             <li> <a class="nav-link" href="#contact">Contact</a> </li>
                         </ul>
                     </div>

@@ -21,8 +21,9 @@
                         
                         <!-- form starts -->
                         <div class="dtr-form">
+                           
+                            <form id="contactform" method="post" action="">
                             @csrf
-                            <form id="contactform" method="post" action="php/contact-form.php">
                                 <fieldset>
                                     <div class="dtr-form-row dtr-form-row-2col">
                                         <p class="dtr-form-column">
@@ -42,7 +43,7 @@
                                         <textarea rows="6" name="message" id="message" class="required"  placeholder="Message"></textarea>
                                     </p>
                                     <p class="text-center">
-                                        <button class="dtr-btn btn-blue dtr-mt-minus30" type="submit">Send Now<i class="icon-cursor dtr-ml-15"></i></button>
+                                        <button class="dtr-btn btn-blue dtr-mt-minus30" type="submit"><i class="icon-cursor dtr-ml-15"></i>Send Now!</button>
                                     </p>
                                     <div id="result"></div>
                                 </fieldset>
