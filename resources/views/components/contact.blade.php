@@ -22,7 +22,7 @@
                         <!-- form starts -->
                         <div class="dtr-form">
                            
-                            <form id="contactform" method="post" action="">
+                            <form id="contactform" method="post" action="{{route('contact.store')}}">
                             @csrf
                                 <fieldset>
                                     <div class="dtr-form-row dtr-form-row-2col">

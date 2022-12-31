@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-use App\Http\Controllers\Contact;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +18,6 @@ use App\Http\Controllers\Contact;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/contact', Contact::class)->name('contact');
-Route::post('/contact', [Contact::class,'store']);
+Route::get('/contact', ContactController::class);
+Route::post('/contact', [ContactController::class,'store'])->name('contact.store');
 

@@ -3,10 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Contact;
 
-class Contact extends Controller
+class ContactController extends Controller
 {
-    /**
+  /**
      * Handle the incoming request.
      *
      * @param  \Illuminate\Http\Request  $request
