@@ -71,15 +71,15 @@
                         <!--=== img slider - 3col starts ===-->
                         <div class="dtr-slick-slider dtr-img-slider-1col dtr-rounded-img"> 
                             <!-- img 1 -->
-                            <div> <img src="assets/images/dev.jpg" alt="image"> </div>
+                            <div> <img src="{{ asset('assets/images/dev0.jpeg')}}" alt="image"> </div>
                             <!-- img 2 -->
-                            <div> <img src="assets/images/back-END.png" alt="image"> </div>
+                            <div> <img src="{{ asset('assets/images/dev5.jpeg')}}" alt="image"> </div>
                             <!-- img 3 -->
-                            <div> <img src="assets/images/project.png" alt="image"> </div>
+                            <div> <img src="{{ asset('assets/images/dev4.jpeg')}}" alt="image"> </div>
                             <!-- img 4 -->
-                            <!-- <div> <img src="assets/images/photography_img9.jpg" alt="image"> </div> -->
+                            <div> <img src="{{ asset('assets/images/dev.jpg')}}" alt="image"> </div>
                             <!-- img 5 -->
-                            <!-- <div> <img src="assets/images/photography_img8.jpg" alt="image"> </div> -->
+                            <!-- <div> <img src="{{ asset('assets/images/dev.jpg')}}" alt="image"> </div> -->
                          </div>
                         <!--=== img slider - 3col ends ===--> 
                         
