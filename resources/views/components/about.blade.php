@@ -28,7 +28,7 @@
                             <li><i class="icon-envelope-fill dtr-mr-10 color-blue"></i><span class="color-dark">leanteam.software@gmail.com</span></li>
                         </ul>
                         <!-- link starts --> 
-                        <a href="#" class="dtr-btn btn-blue dtr-mt-30">Download Resume<i class="icon-chevron-compact-right"></i></a> </div>
+                        <a href="{{ asset('assets/pdf/CV-Leanteam1.pdf') }}" target="_blank" class="dtr-btn btn-blue dtr-mt-30">Download Resume<i class="icon-chevron-compact-right"></i></a> </div>
                     <!-- column 2 ends --> 
                     
                 </div>
