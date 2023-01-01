@@ -43,7 +43,7 @@
                                         <textarea rows="6" name="message" id="message" class="required"  placeholder="Message"></textarea>
                                     </p>
                                     <p class="text-center">
-                                        <button class="dtr-btn btn-blue dtr-mt-minus30" type="submit" value="send"><i class="icon-cursor dtr-ml-15"></i>Send Now!</button>
+                                        <button class="dtr-btn btn-blue dtr-mt-minus30" type="submit" ><i class="icon-cursor dtr-ml-15"></i>Send Now!</button>
                                     </p>
                                     <div id="result"></div>
                                 </fieldset>
