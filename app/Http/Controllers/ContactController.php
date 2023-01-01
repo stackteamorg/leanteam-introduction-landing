@@ -15,11 +15,11 @@ class ContactController extends Controller
      */
     public function __invoke()
     {
-        return view();
+        return view('contact');
     }
     public function store(Request $request)
     {
-                $data = $request->all();
+                $request = $request->all();
                 $contact = Contact::create([
                     "name"=>$request["name"],
                     "email"=>$request["email"],
