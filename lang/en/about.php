@@ -13,8 +13,16 @@ return [
     |
     */
     'main-text'=> '
-    Leanteam with the aim of facilitating the connection of businesses with the programming ecosystem, help to find talented programmers. 
+    <strong> <span class="font-weight-500 color-dark">Leanteam </span> </strong> with the aim of facilitating the connection of businesses with the programming ecosystem, help to find talented programmers. 
     Helping businesses present their products or services properly on the web and application is another goal of our team. 
     ',
+    'name1'=>'Hamed Zoveydavi',
+    'name2'=>'Mahdi Homeyli',
+    'name3'=>'Mohsen Taheri',
+    'name4'=>'Sanaz Ghafouri',
+    'name1-position'=>'CEO',
+    'name2-position'=>'Co-Founder',
+    'name3-position'=>'Business Manager',
+    'name4-position'=>'Backend Developer',
     
 ];

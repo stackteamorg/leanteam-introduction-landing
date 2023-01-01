@@ -604,12 +604,12 @@ transform: rotate(360deg);
 .dtr-feature-square-icon .dtr-feature-img img { max-width: 40px; width: 40px; }
 .dtr-feature-square-icon .dtr-feature-img i { font-size: 32px; line-height: 70px; font-weight: normal; }
 /*===== styled heading =====*/
-.dtr-styled-heading { position: relative; margin-bottom: 15px; z-index: 9; }
-.dtr-styled-heading h2 { font-size: 36px; line-height: 46px; margin-bottom: 5px; }
+.dtr-styled-heading { position: relative; margin-bottom: 15px;; z-index: 9; margin-top:-20px; }
+.dtr-styled-heading h2 { font-size: 36px; line-height: 46px; margin-bottom: 5px;margin-top: 7px;}
 .dtr-styled-heading p { font-size: 14px; line-height: 24px; }
 .dtr-styled-heading::before { content: ''; display: inline-block; position: absolute; left: 0; top: -15px; width: 60px; height: 60px; border-radius: 50%; z-index: -1; }
 .dtr-styled-heading.heading-center { text-align: center; }
-.dtr-styled-heading.heading-center::before { left: 50%; margin-left: -30px; }
+.dtr-styled-heading.heading-center::before { left: 50%; margin-left: -30px; margin-top:-20px;}
 /*===== pricing =====*/
 .dtr-pricing { position: relative; padding: 40px 30px; text-align: center; border-radius: 10px; }
 .dtr-pricing-img { margin-bottom: 25px; }

@@ -22,7 +22,7 @@
 
                         <!-- text -->
                         <p class="font-weight-500 color-dark"></p>
-                        <p class="dtr-mt-20">{{__('about.main-text')}}</p>
+                        <p class="dtr-mt-20">{!!__('about.main-text')!!}</p>
                         <ul class="dtr-list-inline dtr-list-left-spaced dtr-mt-20">
                             <li><i class="icon-telephone-fill dtr-mr-10 color-blue"></i><a href="#chat" class="color-dark">+989120186223</a></li>
                             <li><i class="icon-envelope-fill dtr-mr-10 color-blue"></i><span class="color-dark">leanteam.software@gmail.com</span></li>
@@ -57,7 +57,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member1.JPG" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="{{ asset('assets/images/team-member1.JPG') }}" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
@@ -67,8 +67,8 @@
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
                                 </div>
-                                <h4 class="dtr-mb-0">Hamed Zoveydavi</h4>
-                                <p>CEO</p>
+                                <h4 class="dtr-mb-0">{{__('about.name1')}}</h4>
+                                <p>{{__('about.name1-position')}}</p>
                             </div>
                         </div>
                         <!-- member 1 ends --> 
@@ -81,7 +81,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member2.JPG" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="{{ asset('assets/images/team-member2.JPG')}}" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
@@ -91,8 +91,8 @@
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
                                 </div>
-                                <h4 class="dtr-mb-0">Mahdi Homeyli</h4>
-                                <p>Co-Founder</p>
+                                <h4 class="dtr-mb-0">{{__('about.name2')}}</h4>
+                                <p>{{__('about.name2-position')}}</p>
                             </div>
                         </div>
                         <!-- member 1 ends --> 
@@ -105,7 +105,7 @@
                         
                         <!-- member 1 starts -->
                         <div class="dtr-team dtr-rounded-img">
-                            <div class="dtr-team-img"> <img src="assets/images/team-member3.JPG" alt="image"> </div>
+                            <div class="dtr-team-img"> <img src="{{ asset('assets/images/team-member3.JPG')}}" alt="image"> </div>
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
@@ -115,8 +115,8 @@
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
                                 </div>
-                                <h4 class="dtr-mb-0">Mohsen Taheri</h4>
-                                <p>Business Manager</p>
+                                <h4 class="dtr-mb-0">{{__('about.name3')}}</h4>
+                                <p>{{__('about.name3-position')}}</p>
                                 
                             </div>
                         </div>
@@ -139,8 +139,8 @@
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
                                     </ul>
                                 </div>
-                                <h4 class="dtr-mb-0">Sanaz Ghafouri</h4>
-                                <p>Creative Head</p>
+                                <h4 class="dtr-mb-0">{{__('about.name4')}}</h4>
+                                <p>{{__('about.name4-position')}}</p>
                             </div>
                         </div>
                         <!-- member 1 ends --> 
