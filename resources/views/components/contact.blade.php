@@ -67,8 +67,8 @@
                             <!-- social starts -->
                             <ul class="dtr-social dtr-social-list dtr-styled-social text-left dtr-mt-30">
                                 <!-- <li><a href="#" class="dtr-social-button dtr-dribbble" target="_blank" title="dribbble"><span>Follow us</span></a></li> -->
-                                <li><a href="#" class="dtr-social-button dtr-skype" target="_blank" title="skype"><span>Talk to us</span></a></li>
-                                <li><a href="#" class="dtr-social-button dtr-whatsapp" target="_blank" title="whatsapp"><span>Talk to us</span></a></li>
+                                <!-- <li><a href="#" class="dtr-social-button dtr-skype" target="_blank" title="skype"><span>Talk to us</span></a></li> -->
+                                <!-- <li><a href="#" class="dtr-social-button dtr-whatsapp" target="_blank" title="whatsapp"><span>Talk to us</span></a></li> -->
                                 <!-- <li><a href="#" class="dtr-social-button dtr-google" target="_blank" title="google"><span>Share on Google</span></a></li> -->
                             </ul>
                             <!-- social ends --> 
