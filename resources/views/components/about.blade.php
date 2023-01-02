@@ -86,7 +86,7 @@
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
                                         <li><a href="mailto:homeily@gmail.com" class="dtr-mail" target="_blank" title="mail"></a></li>
-                                        <li><a href="https://linkedin.com/in/mahdihomeyi" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
+                                        <li><a href="https://linkedin.com/in/mahdihomeyli" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name2')}}</h4>
