@@ -71,13 +71,13 @@
                         <!--=== img slider - 3col starts ===-->
                         <div class="dtr-slick-slider dtr-img-slider-1col dtr-rounded-img"> 
                             <!-- img 1 -->
-                            <div> <img src="{{ asset('assets/images/dev0.jpeg')}}" alt="image"> </div>
+                            <div> <img src="{{ asset('assets/images/dev5.jpeg')}}" style="width:350px;height:200px" alt="team"> </div>
                             <!-- img 2 -->
-                            <div> <img src="{{ asset('assets/images/dev5.jpeg')}}" alt="image"> </div>
+                            <div> <img src="{{ asset('assets/images/dev4.jpeg')}}" style="width:350px;height:200px" alt="programming"> </div>
                             <!-- img 3 -->
-                            <div> <img src="{{ asset('assets/images/dev4.jpeg')}}" alt="image"> </div>
+                            <div> <img src="{{ asset('assets/images/dev.jpg')}}"   style="width:350px;height:200px" alt="develope"> </div>
                             <!-- img 4 -->
-                            <div> <img src="{{ asset('assets/images/dev.jpg')}}" alt="image"> </div>
+                            <!-- <div> <img src="{{ asset('assets/images/dev.jpg')}}" alt="image"> </div> -->
                             <!-- img 5 -->
                             <!-- <div> <img src="{{ asset('assets/images/dev.jpg')}}" alt="image"> </div> -->
                          </div>

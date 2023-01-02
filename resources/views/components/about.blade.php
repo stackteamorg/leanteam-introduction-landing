@@ -61,10 +61,10 @@
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
-                                        <li><a href="#" class="dtr-twitter" target="_blank" title="twitter"></a></li>
-                                        <li><a href="#" class="dtr-facebook" target="_blank" title="facebook"></a></li>
-                                        <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
-                                        <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
+                                        <li><a href="mailto:hamed.zoveydat@gmail.com " class="dtr-mail" target="_blank" title="mail"></a></li>
+                                        <li><a href="http://linkedin.com/in/hamed-zoveydavi-a2819897" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
+                                        <!-- <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
+                                        <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li> -->
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name1')}}</h4>
@@ -85,10 +85,8 @@
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
-                                        <li><a href="#" class="dtr-twitter" target="_blank" title="twitter"></a></li>
-                                        <li><a href="#" class="dtr-facebook" target="_blank" title="facebook"></a></li>
-                                        <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
-                                        <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
+                                        <li><a href="mailto:homeily@gmail.com" class="dtr-mail" target="_blank" title="mail"></a></li>
+                                        <li><a href="https://linkedin.com/in/mahdihomeyi" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name2')}}</h4>
@@ -109,10 +107,8 @@
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
-                                        <li><a href="#" class="dtr-twitter" target="_blank" title="twitter"></a></li>
-                                        <li><a href="#" class="dtr-facebook" target="_blank" title="facebook"></a></li>
-                                        <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
-                                        <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
+                                        <li><a href="mailto:mohsentaheri86@gmail.com " class="dtr-mail" target="_blank" title="mail"></a></li>
+                                        <li><a href="#" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name3')}}</h4>
@@ -134,9 +130,8 @@
                             <div class="dtr-team-content">
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
-                                        <li><a href="#" class="dtr-twitter" target="_blank" title="twitter"></a></li>
-                                        <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
-                                        <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li>
+                                        <li><a href="mailto:sanaz.ghafouri1@gmail.com" class="dtr-mail" target="_blank" title="mail"></a></li>
+                                        <li><a href="https://www.linkedin.com/in/sanaz-ghafouri-63878563/" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name4')}}</h4>
