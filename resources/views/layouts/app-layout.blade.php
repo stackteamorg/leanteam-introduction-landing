@@ -4,16 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="">
-<title>Leanteam HTML Template</title>
+<title>Leanteam</title>
 <meta name="author" content="">
 <meta name="description" content="HTML Teamplate">
 <meta name="keywords" content="agency, personal, photography, one page">
 
 <!-- FAVICON FILES -->
-<link href="{{ asset('assets/images/icons/apple-touch-icon-144-precomposed.png')}}" rel="apple-touch-icon" sizes="144x144">
+<!--link href="{{ asset('assets/images/icons/apple-touch-icon-144-precomposed.png')}}" rel="apple-touch-icon" sizes="144x144">
 <link href="{{ asset('assets/images/icons/apple-touch-icon-120-precomposed.png')}}" rel="apple-touch-icon" sizes="120x120">
 <link href="{{ asset('assets/images/icons/apple-touch-icon-76-precomposed.png')}}" rel="apple-touch-icon" sizes="76x76">
-<link href="{{ asset('assets/images/icons/favicon.png')}}" rel="shortcut icon">
+<link href="{{ asset('assets/images/icons/favicon.png')}}" rel="shortcut icon"-->
 
 <!-- CSS FILES -->
 <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css')}}">
