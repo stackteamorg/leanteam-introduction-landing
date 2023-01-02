@@ -62,7 +62,7 @@
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
                                         <li><a href="mailto:hamed.zoveydat@gmail.com " class="dtr-mail" target="_blank" title="mail"></a></li>
-                                        <li><a href="http://linkedin.com/in/hamed-zoveydavi-a2819897" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
+                                        <li><a href="http://www.linkedin.com/in/hamed-zoveydavi-a2819897" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                         <!-- <li><a href="#" class="dtr-google" target="_blank" title="google"></a></li>
                                         <li><a href="#" class="dtr-instagram" target="_blank" title="instagram"></a></li> -->
                                     </ul>
@@ -86,7 +86,7 @@
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
                                         <li><a href="mailto:homeily@gmail.com" class="dtr-mail" target="_blank" title="mail"></a></li>
-                                        <li><a href="https://linkedin.com/in/mahdihomeyli" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
+                                        <li><a href="https://www.linkedin.com/in/mahdihomeyli" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name2')}}</h4>
