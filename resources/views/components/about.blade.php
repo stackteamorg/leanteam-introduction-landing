@@ -108,7 +108,7 @@
                                 <div class="dtr-social-circle dtr-team-social">
                                     <ul class="dtr-social dtr-social-list">
                                         <li><a href="mailto:mohsentaheri86@gmail.com " class="dtr-mail" target="_blank" title="mail"></a></li>
-                                        <li><a href="#" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
+                                        <li><a href="https://www.linkedin.com/in/mohsen-taheri-b32875a9/" class="dtr-linkedin" target="_blank" title="linkedin"></a></li>
                                     </ul>
                                 </div>
                                 <h4 class="dtr-mb-0">{{__('about.name3')}}</h4>
