@@ -6,8 +6,8 @@
 <meta name="format-detection" content="">
 <title>Leanteam</title>
 <meta name="author" content="">
-<meta name="description" content="HTML Teamplate">
-<meta name="keywords" content="agency, personal, photography, one page">
+<meta name="description" content="">
+<meta name="keywords" content="leanteam">
 
 <!-- FAVICON FILES -->
 <!--link href="{{ asset('assets/images/icons/apple-touch-icon-144-precomposed.png')}}" rel="apple-touch-icon" sizes="144x144">
@@ -16,12 +16,12 @@
 <link href="{{ asset('assets/images/icons/favicon.png')}}" rel="shortcut icon"-->
 
 <!-- CSS FILES -->
-<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css')}}">
-<link rel="stylesheet" href="{{ asset('assets/fonts/iconfonts.css')}}">
-<link rel="stylesheet" href="{{ asset('assets/css/plugins.css')}}">
-<link rel="stylesheet" href="{{ asset('assets/css/style.css')}}">
-<link rel="stylesheet" href="{{ asset('assets/css/responsive.css')}}">
-<link rel="stylesheet" href="{{ asset('assets/css/color.css')}}">
+<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/fonts/iconfonts.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/plugins.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/color.css') }}">
 </head>
 <body>
 <div id="dtr-wrapper" class="clearfix"> 
