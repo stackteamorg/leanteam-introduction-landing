@@ -116,7 +116,7 @@
                         <ul class="dtr-social dtr-social-list dtr-styled-social text-left dtr-mt-30">
                             <li class="dtr-social-title font-weight-500 color-dark">Follow Us on</li>
                             <li><a href="#" class="dtr-social-button dtr-twitter" target="_blank" title="linkedin"><span>Follow on twitter</span></a></li>
-                            <!-- <li><a href="#" class="dtr-social-button dtr-facebook" target="_blank" title="facebook"><span>Like On Facebook</span></a></li> -->
+                            <li><a href="#" class="dtr-social-button dtr-whatsapp" target="_blank" title="whatsapp"><span>Send message</span></a></li>
                             <li><a href="https://www.linkedin.com/in/lean-team-6b8708259/" class="dtr-social-button dtr-linkedin" target="_blank" title="linkedin"><span>View Profile</span></a></li>
                         </ul>
                     </br></br></br>
