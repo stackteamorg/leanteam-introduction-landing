@@ -26,21 +26,23 @@
                             @csrf
                                 <fieldset>
                                     <div class="dtr-form-row dtr-form-row-2col">
+                                
                                         <p class="dtr-form-column">
-                                            <input name="name"  type="text" placeholder="Name">
+                                            <input name="name" class="required name"  type="text" placeholder="Name">
                                         </p>
+                                      
                                         <p class="dtr-form-column">
                                             <input name="email"  class="required email" type="text" placeholder="Email">
                                         </p>
                                     </div>
                                     <p>
-                                        <input name="subject"  type="text" placeholder="Subject">
+                                        <input name="subject"  type="text" class="required" placeholder="Subject">
                                     </p>
                                     <p class="antispam">Leave this empty: <br />
                                         <input name="url" />
                                     </p>
                                     <p>
-                                        <textarea rows="6" name="message" id="message" class="required"  placeholder="Message"></textarea>
+                                        <textarea rows="6" name="message" id="message"  placeholder="Message"></textarea>
                                     </p>
                                     <p class="text-center">
                                         <button class="dtr-btn btn-blue dtr-mt-minus30" type="submit" ><i class="icon-cursor dtr-ml-15"></i>Send Now!</button>

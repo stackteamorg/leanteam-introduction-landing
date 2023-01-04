@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\ContactRequest;
+use Illuminate\Http\Request;
+// use App\Http\Requests\ContactRequest;
 use App\Models\Contact;
 
 class ContactController extends Controller
@@ -17,18 +18,16 @@ class ContactController extends Controller
     {
         return view('contact');
     }
-    public function store(ContactRequest $request)
+    public function store(Request $request)
     {
-        $contact = Contact::create([
-
+        $contacts = Contact::create([
             "name"=> $request->name,
             "email"=> $request->email,
             "subject"=> $request->subject,
             "message"=> $request->message,
         ]);
 
-        //return view('contact');
-        return $request->name . ",send your message succesfuly";
+        return "Message has been sent successfully!";
         
     }
 
